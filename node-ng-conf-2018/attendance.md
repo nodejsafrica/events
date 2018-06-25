@@ -17,7 +17,7 @@
 | name | location         |   Yes       |
 
 
-## Sponors
+## Sponsors
 
 
 ## Partners
