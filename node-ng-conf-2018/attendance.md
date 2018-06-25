@@ -29,11 +29,19 @@ A website for attendee registration is being created and will be publicly availa
     - Pictures and meeting people
 
 ## Speakers 
-Still undecided. Will be updated as CFPs are accepted and proposed speakers accept proposals.
+
+| Name | Topic |
+|----- |-------|
+| name | topic |
+
 
 
 ## Attendance 
-Still in progress
+
+| Name | Current Location | Accomdation |
+|----- |:-----------------:| ----------:|
+| name | location         |   Yes       |
+
 
 ## Sponsors
 Still in progress
