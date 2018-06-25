@@ -3,6 +3,9 @@
 #### Organizers 
 Node NG Conf 2018 is organized by the Node.js Nigeria team.
 
+## Registration
+A website for attendee registration is being created and will be publicly available in less than 2 weeks.
+
 ## Agenda
 - Start time: 11am
 - Duration: 3.5hrs
